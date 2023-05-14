@@ -1,0 +1,6 @@
+리팩토링 
+1. memberService(memberDto ==> member 로 수정)
+2. membercontroller 에서 memberdto 를 member 로 수정
+3. memberDto 의 address 를 city, street, zipcode 로 변경 (DTO 는 화면과 뷰 전달받는 걸로만 사용)
+4. addMember.html의 주소 필드 수정
+
